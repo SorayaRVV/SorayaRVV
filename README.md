@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🔶 Hello people, I'm Soraya Rivas and I'm new here! 🔶
 
-<!--
-**SorayaRVV/SorayaRVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 From Pixels to Code: Transforming Design into Digital Experiences
 
-Here are some ideas to get you started:
+### 🎨 About My Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graphic designer on a technological transformation journey, 
+currently navigating through the universes of:
+
+| Technology | Status |
+|-----------|--------|
+| 💫 HTML5 & CSS3 | Level: Rapidly Advancing |
+| 🔥 JavaScript | Deciphering Its Mysteries |
+| 🐍 Python | Exploring Infinite Possibilities |
+
+### 🌈 My Mission
+
+**Create interfaces that are not just beautiful, 
+but also tell stories and solve problems.**
+
+---
+
+#### 🛠 Currently Leveling Up
+- Web Development Skills
+- Coding Superpowers
+- Digital Problem Solving
